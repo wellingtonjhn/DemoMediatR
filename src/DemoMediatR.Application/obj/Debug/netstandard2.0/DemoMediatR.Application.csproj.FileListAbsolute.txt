@@ -1,9 +1,0 @@
-D:\DEV\Demos\DemoMediatR\src\DemoMediatR.Application\bin\Debug\netstandard2.0\DemoMediatR.Application.deps.json
-D:\DEV\Demos\DemoMediatR\src\DemoMediatR.Application\bin\Debug\netstandard2.0\DemoMediatR.Application.dll
-D:\DEV\Demos\DemoMediatR\src\DemoMediatR.Application\bin\Debug\netstandard2.0\DemoMediatR.Application.pdb
-D:\DEV\Demos\DemoMediatR\src\DemoMediatR.Application\obj\Debug\netstandard2.0\DemoMediatR.Application.csprojResolveAssemblyReference.cache
-D:\DEV\Demos\DemoMediatR\src\DemoMediatR.Application\obj\Debug\netstandard2.0\DemoMediatR.Application.csproj.CoreCompileInputs.cache
-D:\DEV\Demos\DemoMediatR\src\DemoMediatR.Application\obj\Debug\netstandard2.0\DemoMediatR.Application.AssemblyInfoInputs.cache
-D:\DEV\Demos\DemoMediatR\src\DemoMediatR.Application\obj\Debug\netstandard2.0\DemoMediatR.Application.AssemblyInfo.cs
-D:\DEV\Demos\DemoMediatR\src\DemoMediatR.Application\obj\Debug\netstandard2.0\DemoMediatR.Application.dll
-D:\DEV\Demos\DemoMediatR\src\DemoMediatR.Application\obj\Debug\netstandard2.0\DemoMediatR.Application.pdb
